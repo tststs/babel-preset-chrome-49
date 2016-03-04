@@ -1,0 +1,23 @@
+{
+  "name": "babel-preset-chrome-49",
+  "version": "1.0.0",
+  "description": "Babel preset chrome 49+.",
+  "author": "Tobias Schubert <ts@taikonauten.com>",
+  "license": "MIT",
+  "repository": "https://github.com/tststs/babel-preset-chrome-49",
+  "main": "index.js",
+  "dependencies": {
+
+    "babel-plugin-transform-es2015-function-name": "^6.5.0",
+    "babel-plugin-transform-es2015-for-of": "^6.6.0",
+    "babel-plugin-transform-es2015-sticky-regex": "^6.5.0",
+    "babel-plugin-transform-es2015-unicode-regex": "^6.5.0",
+    "babel-plugin-transform-es2015-parameters": "^6.6.4",
+    "babel-plugin-transform-es2015-destructuring": "^6.6.0",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.6.4"
+  },
+  "devDependencies": {
+
+    "babel-helper-transform-fixture-test-runner": "^6.6.4"
+  }
+}
